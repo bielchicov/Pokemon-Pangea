@@ -1,6 +1,4 @@
 # Pokemon-Pangea
-Join our project on GitHub and be part of the creation of an exciting Pokémon-style game! We're looking for passionate developers to explore, fight, customize and forge emotional bonds in a vast world of adventure. We are waiting for you to make magic together!
-
 Hello to all video game development enthusiasts!
 
 Are you ready to embark on an epic adventure that combines the magic of Pokémon with the excitement of creating your own digital world? Welcome to our GitHub project, where imagination merges with innovation to bring a unique and exciting universe to life!
